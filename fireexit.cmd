@@ -4,3 +4,4 @@ git stash apply
 git add .
 git commit -m "Fire Exit"
 git status
+git push --set-upstream origin fireexitchanges
